@@ -9,14 +9,14 @@ describe your project here
 
 The following **required** functionality is completed:
 
-* [] Convert at least 3 temperature types, for example Fahrenheit to Celcius, Celcius to Fahrenheit and Fahrenheit to Kelvin.
-* [] Disallow incorrect data and provide feedback, for example, when a user inputs a string, the data is not processed and the user is informed of the mistake.
-* [] Be built as nearly as possible to [PSR-1](https://www.php-fig.org/psr/psr-1/) and [PSR-2](https://www.php-fig.org/psr/psr-2/) standards.
+* [ ] Convert at least 3 temperature types, for example Fahrenheit to Celcius, Celcius to Fahrenheit and Fahrenheit to Kelvin.
+* [ ] Disallow incorrect data and provide feedback, for example, when a user inputs a string, the data is not processed and the user is informed of the mistake.
+* [ ] Be built as nearly as possible to [PSR-1](https://www.php-fig.org/psr/psr-1/) and [PSR-2](https://www.php-fig.org/psr/psr-2/) standards.
 
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that we got get done to improve the app functionality!
+* [ ] Converts back and forth between all 3 types of temperatures, Fahrenheit, Celsius and Kelvin, back and forth (6 total conversions) and rounds the result to 2 decimal points.
 
 ## Video Walkthrough
 
