@@ -6,7 +6,7 @@ switch(THIS_PAGE){
 
     case 'index.php':
         $title = 'Temperature Converter';
-        $logo = 'fa-home';
+        // $logo = 'calc?';
         $PageID = 'Home';
         break;
 
@@ -15,3 +15,6 @@ switch(THIS_PAGE){
         $logo = 'fa-home';
         $PageID = 'Home';
 }
+
+
+?>
