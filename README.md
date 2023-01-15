@@ -18,6 +18,10 @@ The following **optional** features are implemented:
 
 * [ ] Converts back and forth between all 3 types of temperatures, Fahrenheit, Celsius and Kelvin, back and forth (6 total conversions) and rounds the result to 2 decimal points.
 
+## IPO / Flow Chart
+
+<!-- Insert Here // Created by: -->
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
