@@ -22,11 +22,11 @@ The following **optional** features are implemented:
 
 <!-- Insert Here // Created by: -->
 
-## Video Walkthrough
+## Video Walkthrough (totally optional)
 
-Here's a walkthrough of implemented features:
+Walkthrough of implemented features:
 
-<!-- Create GIF!! -->
+<!-- Create GIF -->
 
 <!-- Replace this with whatever GIF tool you used! -->
 
