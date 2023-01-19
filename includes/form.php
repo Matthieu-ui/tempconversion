@@ -98,7 +98,6 @@ if (isset($_POST['submit'])) {
 
 <!-- html form goes here-->
 
-
 <fieldset>
 
     <form action="" method="post">
@@ -193,5 +192,4 @@ if (isset($_POST['submit'])) {
             </div>
         </div>
     </section>
-
 
