@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 <img src="./src/images/IPO.jpg" alt="flow chart" style="width: 600px">
 
-## Video Walkthrough (totally optional)
+
 
 Walkthrough of implemented features:
 
