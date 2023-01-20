@@ -1,0 +1,19 @@
+{
+  "name": "tempconversion",
+  "version": "1.0.0",
+  "description": "This is a simple temperature conversion app that converts between Fahrenheit, Celsius and Kelvin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matthieu-ui/tempconversion.git"
+  },
+  "author": "Mahlet Birhanu, Matthieu Felker, Kota Sasaki",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Matthieu-ui/tempconversion/issues"
+  },
+  "homepage": "https://github.com/Matthieu-ui/tempconversion#readme"
+}

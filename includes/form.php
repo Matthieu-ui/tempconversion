@@ -193,3 +193,26 @@ if (isset($_POST['submit'])) {
         </div>
     </section>
 
+
+    <!-- flow chart -->
+    <!-- start with a form -->
+    <!-- user input -->
+    <!-- user selects units to convert from -->
+    <!-- user selects units to convert to -->
+    <!-- user clicks submit -->
+    <!-- php logic -->
+    <!-- if user input is empty -->
+    <!-- display error -->
+    <!-- if user selects same unit -->
+    <!-- display error -->
+    <!-- if user selects no unit -->
+    <!-- display error -->
+    <!-- if user selects different units -->
+    <!-- convert -->
+    <!-- display result -->
+    <!-- if user clicks reset -->
+    <!-- clear form -->
+    <!-- clear result -->
+    <!-- end php logic -->
+    <!-- end form -->
+
